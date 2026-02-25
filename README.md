@@ -23,6 +23,8 @@ Foram utilizadas Common Table Expressions (CTEs) para estruturar melhor a lógic
 
 ## Código SQL
 
+<img width="799" height="735" alt="SQL" src="https://github.com/user-attachments/assets/67f119a6-e1d3-41a1-bb27-4f1eabf9b15a" />
+
 ---
 
 ## Criação de Variáveis Analíticas
@@ -80,11 +82,15 @@ O resultado foi uma base analítica enriquecida pronta para consumo no Power BI.
 
 O dashboard foi desenvolvido com foco em People Analytics e análise de turnover organizacional, dividido em duas páginas principais.
 
+<img width="1273" height="714" alt="Capa" src="https://github.com/user-attachments/assets/40dc3a57-f408-4939-9311-cef4cd2cdbc4" />
+
 ---
 
 # Página 1 — Visão Geral de Turnover
 
 ## Dashboard — Visão Geral
+
+<img width="1259" height="711" alt="Dashboard_1" src="https://github.com/user-attachments/assets/187a14a0-4adc-4587-a6e0-e7e506860481" />
 
 ---
 
@@ -139,6 +145,8 @@ Insight: Quanto maior a senioridade, menor o turnover.
 # Página 2 — Fatores Associados ao Turnover
 
 ## Dashboard — Análises Estratégicas
+
+<img width="1254" height="704" alt="Dashboard_2" src="https://github.com/user-attachments/assets/f270a5ba-49ea-447a-b95c-e0f7d3d29c13" />
 
 ---
 
@@ -229,3 +237,4 @@ Com base nas análises, os principais fatores associados ao turnover são:
 * Machine Learning para classificação de risco
 * Dashboard interativo com simulações
 * Análise estatística mais aprofundada
+
